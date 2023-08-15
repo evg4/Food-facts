@@ -38,7 +38,7 @@ function App() {
       </main>
       <footer>
         <p>
-          All images from{" "}
+          All images are from{" "}
           <a target="_blank" rel="noreferrer" href="https://unsplash.com/">
             Unsplash
           </a>
