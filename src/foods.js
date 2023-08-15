@@ -9,19 +9,19 @@ let foodObject = {
   cake: {
     name: "cake",
     tastiness: "delicious",
-    img: "/images/cake.jpg",
+    img: "./food-facts/images/cake.jpg",
     furtherInfo: cakeRecipe,
   },
   rice: {
     name: "rice",
     tastiness: "a staple all over the world",
-    img: "/images/rice.jpg",
+    img: "./food-facts/images/rice.jpg",
     furtherInfo: riceInfo,
   },
   mango: {
     name: "mango",
     tastiness: "juicy",
-    img: "/images/mango.jpg",
+    img: "./food-facts/images/mango.jpg",
     furtherInfo: mangoTip,
   },
 };
