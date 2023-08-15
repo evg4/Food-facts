@@ -15,7 +15,7 @@ let foodObject = {
   rice: {
     name: "rice",
     tastiness: "a staple all over the world",
-    img: "/assets/rice.jpg",
+    img: "assets/rice.jpg",
     furtherInfo: riceInfo,
   },
   mango: {
