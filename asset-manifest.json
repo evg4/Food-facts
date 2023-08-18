@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/food-facts/static/css/main.f67ecbed.css",
-    "main.js": "/food-facts/static/js/main.6d8acb11.js",
+    "main.css": "/food-facts/static/css/main.fdfd69ae.css",
+    "main.js": "/food-facts/static/js/main.af2a3a4d.js",
     "static/js/787.7db65dc4.chunk.js": "/food-facts/static/js/787.7db65dc4.chunk.js",
     "index.html": "/food-facts/index.html",
-    "main.f67ecbed.css.map": "/food-facts/static/css/main.f67ecbed.css.map",
-    "main.6d8acb11.js.map": "/food-facts/static/js/main.6d8acb11.js.map",
+    "main.fdfd69ae.css.map": "/food-facts/static/css/main.fdfd69ae.css.map",
+    "main.af2a3a4d.js.map": "/food-facts/static/js/main.af2a3a4d.js.map",
     "787.7db65dc4.chunk.js.map": "/food-facts/static/js/787.7db65dc4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f67ecbed.css",
-    "static/js/main.6d8acb11.js"
+    "static/css/main.fdfd69ae.css",
+    "static/js/main.af2a3a4d.js"
   ]
 }
