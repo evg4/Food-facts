@@ -28,12 +28,12 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>Click on the foods for more info!</h1>
+        <h1>Food facts</h1>
       </header>
       <main>
         <div id="food-imgs">{foodImages}</div>
         <div>
-          <p id="food-text"></p>
+          <p id="food-text">Click on the food pictures above for more info!</p>
         </div>
       </main>
       <footer>
