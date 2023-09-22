@@ -1,4 +1,3 @@
-
 ## Project Title
 Food facts
 ## Description
@@ -6,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Features
 HTML, CSS and JavaScript.
 ## How to use
-This can be viewed at [https://evg4.github.io/Belle-s-bakery/](https://evg4.github.io/food-facts/)
+This can be viewed at https://evg4.github.io/food-facts/
 ## Technologies
 HTML, CSS and JavaScript.
 ## Licence
